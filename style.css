@@ -1,0 +1,134 @@
+.chit1{
+ background-image: url(png2.jpg);
+ height: 1850px;
+padding-top: 20px;
+}
+.chit2{
+    border: 5px solid rgba(245, 239, 239, 0.884);
+    width: 400px;
+    height: 200px;
+    border-radius: 30px;
+    background-color:  rgb(5, 4, 14);
+text-align: center;
+font-size: xx-large;
+box-shadow: 0px 0px 15px 15px green;
+margin-left: 500px;
+color: white;
+margin-bottom: 50px;
+}
+fieldset{
+    border: 5px solid green;
+
+}
+.chit3{
+    border: 5px solid rgb(233, 228, 228);
+    width: 200px;
+    height: 300px;
+    /* background-color:green; */
+    background-color: rgb(5, 4, 14);
+    font-size:x-large;
+    color: rgb(240, 239, 245);
+    font-style: italic;
+    padding-left: 5px;
+    box-shadow: 0 0 10px 10px green;
+    margin-top: 20px;
+
+}
+.chit4{
+    border: 5px solid white;
+    width: 200px;
+    height: 300px;
+    background-image: url(png3.jpg);
+    box-shadow:0 0 10px 10px  green;
+    margin-left: 1080px;
+    margin-top: -300px;
+    
+}
+.chit5{
+    border: 5px solid;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(5, 4, 14);
+    /* background-color: red; */
+    font-size: x-large;
+    color: aliceblue;
+    padding-top: 10px;
+    padding-left: 10px;
+    box-shadow:0 0 10px 10px  green;
+}
+.chit6{
+    border: 5px solid;
+    width: 200px;
+    height: 300px;
+    background-color: rgb(5, 4, 14) ;
+    color: white;
+    padding-left: 10px;
+    margin-left: 1080px;
+    margin-top: -300px;
+    box-shadow:0 0 10px 10px  green;
+}
+.chit7{
+    border: 5px solid rgb(5, 4, 14);
+    width: 900px;
+    height: 800px;
+    margin-top: 20px;
+    margin-left: 220px;
+    background-color:  rgb(5, 4, 14) ;
+    color: aliceblue;
+    text-align: center;
+}
+.chit8{
+ border: 1px solid green;
+ width: 450px;
+ height:250px ;
+ background-color: rgb(238, 3, 3);
+ color: black;
+ font-weight: bold;
+    font-style: italic;
+ 
+}
+.chit9{
+    border: 1px solid yellow;
+    width: 450px;
+    height:250px ;
+    background-color: white;
+    color: black;
+    margin-left: 450px; 
+    margin-top: -252px;
+    font-weight: bold;
+    font-style: italic;
+}
+.chit10{
+    border: 1px solid green;
+    width: 850px;
+    height: 300px;
+    background-color: green;
+    color: black;
+    margin-top: 50px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 20px;
+}
+.chit11{
+    border: 5px solid rgb(230, 11, 11);
+    width: 500px;
+    height: 120px;
+    background-color: rgb(81, 11, 194);
+    margin-left: 200px;
+    position: fixed;
+    display: flex;
+    box-shadow:0 0 10px 10px  green;
+    justify-content: space-around;
+    top: 80%;
+   padding: auto;
+    
+}
+h2{
+    margin-left: 30px;
+}
+h4{
+    margin-left: 70px;
+    margin-top: 30px;
+    color: rgb(236, 235, 235);
+    
+}
